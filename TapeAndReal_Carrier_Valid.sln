@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1500
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TapeAndReal_Carrier_Valid", "TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid.csproj", "{FD5C8163-09B5-40E8-AD6F-CD124176F307}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD5C8163-09B5-40E8-AD6F-CD124176F307}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD5C8163-09B5-40E8-AD6F-CD124176F307}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD5C8163-09B5-40E8-AD6F-CD124176F307}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD5C8163-09B5-40E8-AD6F-CD124176F307}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91CE155B-2E0F-4D51-A671-FB3C00EEDF15}
+	EndGlobalSection
+EndGlobal

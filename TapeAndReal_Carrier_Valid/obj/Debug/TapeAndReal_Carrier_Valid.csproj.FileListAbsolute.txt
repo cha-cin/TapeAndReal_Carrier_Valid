@@ -1,0 +1,53 @@
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.exe.config
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.exe
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.pdb
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.Form1.resources
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.Properties.Resources.resources
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.GenerateResource.cache
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.CoreCompileInputs.cache
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.exe
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.pdb
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\Newtonsoft.Json.dll
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\Newtonsoft.Json.xml
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.CopyComplete
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.exe.manifest
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.application
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.exe.manifest
+c:\users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.application
+C:\Users\tbbeapps\source\repos\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.AssemblyReference.cache
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.exe.config
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.exe.manifest
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.application
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.exe
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.pdb
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.AssemblyReference.cache
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.SuggestedBindingRedirects.cache
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.Form1.resources
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.Properties.Resources.resources
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.GenerateResource.cache
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.CoreCompileInputs.cache
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.exe.manifest
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.application
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.CopyComplete
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.exe
+C:\Users\lichiasin\OneDrive - Micron Technology, Inc\Project\TapeAndReal_Carrier_Valid_source_code\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.pdb
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.exe.config
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.exe.manifest
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.application
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.exe
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\TapeAndReal_Carrier_Valid.pdb
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\Newtonsoft.Json.dll
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\bin\Debug\Newtonsoft.Json.xml
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.AssemblyReference.cache
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.SuggestedBindingRedirects.cache
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.Form1.resources
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.Properties.Resources.resources
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.GenerateResource.cache
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.CoreCompileInputs.cache
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.exe.manifest
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.application
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.csproj.CopyComplete
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.exe
+C:\Users\lichiasin\Documents\Project\TapeAndReal_Carrier_Valid\TapeAndReal_Carrier_Valid\obj\Debug\TapeAndReal_Carrier_Valid.pdb
